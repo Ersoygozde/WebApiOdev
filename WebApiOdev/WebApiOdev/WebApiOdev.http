@@ -1,0 +1,6 @@
+@WebApiOdev_HostAddress = http://localhost:5130
+
+GET {{WebApiOdev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
