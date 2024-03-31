@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFReservation", "EFReservation\EFReservation.csproj", "{63567E2F-2AE7-4959-B8E7-4B4294D021B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63567E2F-2AE7-4959-B8E7-4B4294D021B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63567E2F-2AE7-4959-B8E7-4B4294D021B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63567E2F-2AE7-4959-B8E7-4B4294D021B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63567E2F-2AE7-4959-B8E7-4B4294D021B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC605BB-CFE6-4F48-8873-F937E75354E9}
+	EndGlobalSection
+EndGlobal
